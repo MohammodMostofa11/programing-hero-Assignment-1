@@ -52,7 +52,7 @@
     flex-shrink: 0;
 }
 /* featured section style  */
-.featured-title{
+.primary-title{
     color: #272727;
     text-align: center;
     font-family: Lato;
@@ -62,6 +62,7 @@
     line-height: normal;
     margin-top: 180px;
 }
+
 .featured-description{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -150,5 +151,22 @@ ul li{
     padding: 100px 430px 100px 185px;
 }
 .deal-btn{
-    margin-left: 190px;
+    margin-left: 185px;
+}
+/* deal end  */
+/* socail platform */
+.social-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.socail-picture{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    width: 80%;
+    margin: auto;
+
 }
