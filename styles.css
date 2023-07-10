@@ -86,7 +86,7 @@
 .featured-mixed-flower{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    padding: 110px 70px 0px 70px;
+    padding: 110px 60px 0px 60px;
     border: none;
     
 }
@@ -99,6 +99,7 @@
 ul{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 128px;
 }
 ul li{
     list-style: none;
