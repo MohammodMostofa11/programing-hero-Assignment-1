@@ -14,7 +14,6 @@
     padding: 20px 43px;
     color: #FFF;
     font-size: 20px;
-    font-weight: 700;
 }
 .header-containar{
     background: rgba(229, 84, 115, 0.10);
@@ -166,7 +165,50 @@ ul li{
     display: flex;
     justify-content: space-around;
     gap: 25px;
-    width: 80%;
-    margin: auto;
+    margin-left: 240px;
+    margin-right: 240px;
 
+}
+/* update deal start  */
+.update-deal{
+    margin-top: 128px;
+    background-image: url("./Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 240px;
+    margin-right: 240px;
+    
+}
+.update-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+    
+    }
+.update-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+
+}
+.update-deal input[type="email"] {
+    padding: 23px 513px 22px 22px;
+    border: none;
+    margin: 48px 0px 120px 285px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.last-btn{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 30px;
+    background-color: #E55473;
+    border-radius: 8px;
+    border: none;
 }
