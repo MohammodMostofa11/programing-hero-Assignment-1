@@ -220,8 +220,11 @@ footer{
     background-color:#111010;
     margin-top: 128px;
 }
-.shop-name{
+.shop-modifi{
     color: #E55473;
+}
+.shop-name{
+    color: #ffff;
     font-family: Lato;
     font-size: 48px;
     font-weight: 800;
