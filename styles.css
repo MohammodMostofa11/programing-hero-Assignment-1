@@ -178,6 +178,7 @@ ul li{
     background-size: cover;
     margin-left: 240px;
     margin-right: 240px;
+   
     
 }
 .update-title{
@@ -211,4 +212,30 @@ ul li{
     background-color: #E55473;
     border-radius: 8px;
     border: none;
+    margin-left: 16px;
+}
+/* footer related styles */
+footer{
+    text-align: center;
+    background-color:#111010;
+}
+.shop-name{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 128px;
+}
+.shop-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    padding-top: 25px;
+}
+.shop-rights{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    padding-top: 32px;
+    padding-bottom: 128px;
 }
